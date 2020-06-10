@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/531431988/uView#readme",
   "dependencies": {
-    "uview-ui": "^1.2.9"
+    "uview-ui": "^1.3.2"
   },
   "devDependencies": {
     "node-sass": "^4.14.1",
