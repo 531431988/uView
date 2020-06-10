@@ -5,7 +5,7 @@
   "pages": [{
     "path": "pages/home/index",
     "style": {
-      "navigationStyle": "custom", // 隐藏系统导航栏
+      "navigationStyle": "custom",
       "navigationBarTextStyle": "white",
       "app-plus": {
         "animationType": "fade-in",
@@ -17,7 +17,7 @@
   }, {
     "path": "pages/classify/index",
     "style": {
-      "navigationStyle": "custom", // 隐藏系统导航栏
+      "navigationStyle": "custom",
       "navigationBarTextStyle": "white",
       "app-plus": {
         "animationType": "fade-in",
@@ -29,7 +29,7 @@
   }, {
     "path": "pages/cart/index",
     "style": {
-        "navigationStyle": "custom", // 隐藏系统导航栏
+        "navigationStyle": "custom",
         "navigationBarTextStyle": "white",
         "app-plus": {
           "animationType": "fade-in",
@@ -39,9 +39,14 @@
         }
     }
   }, {
+    "path": "pages/cart/detail",
+    "style": {
+        "navigationBarTitleText": "详情"
+    }
+  }, {
     "path": "pages/mine/index",
     "style": {
-      "navigationStyle": "custom", // 隐藏系统导航栏
+      "navigationStyle": "custom",
       "navigationBarTextStyle": "white",
       "app-plus": {
         "animationType": "fade-in",

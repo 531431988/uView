@@ -1,6 +1,6 @@
 <template>
   <view class="wrap">
-  <u-swiper :list="list" title :height="400" mode="none"></u-swiper>
+  <u-swiper :list="list" :title="true" :height="400" mode="none"></u-swiper>
   </view>
 </template>
 
